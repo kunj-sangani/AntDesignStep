@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ant-design-step-client-side-solution",
+    "id": "df7d9e9b-0150-4661-b9cd-6a9e93c49f86",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ant-design-step.sppkg"
+  }
+}
